@@ -1,1 +1,2 @@
-# ReadMe
+# sobre mi
+My nombre es byron Martínez, estudio en la Universidad Estatal de Milagro (Guayas-Ecuador), estudio la carrera de Ingenieria en Software, el proposito de este espacio es para dar a conocer un poco los proyectos que realize a lo largo de mi carrera estudiando y porque no cuando ya sea un profesional, siempre trato de absorber la mayor cantidad de conocimiento como sea posible, porque yo creo que el conocimiento es la base de todo en esta vida, sin conocimiento las cosas se ven de una forma completamente distinta a como se las ve cuando uno tiene conocimientos, si a alguien le sirve algun proyecto estaría mas que encantado de que lo utilizen
